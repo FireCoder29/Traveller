@@ -1,6 +1,6 @@
 # Traveller – A Travel Vlog Website
 
-Traveller is a simple and attractive travel guide website created using HTML and CSS.
+Traveller is a simple and attractive travel guide website created using HTML.
 This website is focused **only on the Sylhet division of Bangladesh** and highlights
 some of its most beautiful tourist destinations. It is a static website hosted using
 GitHub Pages.
