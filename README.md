@@ -37,7 +37,7 @@ Each destination includes an image and a short description to give visitors a qu
 overview of the place.
 
 <p align="center">
-  <img src="image.png" width="500">
+  <img src="Screenshot 2026-02-07 165750.png" width="500">
 </p>
 
 
